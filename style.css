@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-custom {
+  background-color: #AE431E;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#main-title {
+  background-color: #86340A;
+}
+
+.main-menu {
+  background-color: hsl(37, 49%, 88%);
+}
+
+.main-menu-title {
+  background-color: #7D5A50;
+}
+
+.card-image-custom {
+  object-fit: none;
+  object-position: center;
+  height: 300px;
+}
+
+#location {
+  background-color: hsl(37, 49%, 88%);
+
+}
+
+.carousel-image-custom {
+  object-fit: none;
+  object-position: center;
+  height: 600px;
+}
+
+
+.reviewer-card {
+  background-color: #423F3E;
+  border-radius: 10px;
+}
+
+.reviewer-image {
+  /* object-fit: none; */
+  /* object-position: center; */
+  height: 50px;
+  width: 50px;
+  box-shadow: 5px 5px goldenrod;
+}
